@@ -1,0 +1,4 @@
+[package]
+name = "Lisp_Interpreter"
+version = "0.1.0"
+authors = ["Andy Leeds <aleeds@trinity.edu>"]
